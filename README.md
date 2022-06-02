@@ -2,6 +2,7 @@
 Technical exam
 
 
-# Create the docker  image with the following command
+# You can access the helloworld application using following
 
-docker build -t reverseproxy .
+https://localhost:8081
+
