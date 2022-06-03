@@ -24,7 +24,7 @@ services:
 
     mongo:
         container_name: mongo-backend
-        image: mongo
+        build: database/
         ports: 
         - "27017:27017"
         volumes: 
